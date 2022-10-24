@@ -49,6 +49,8 @@
 [submodule "Textes/SummaTheologiae"]
 	path = Textes/SummaTheologiae
 	url = https://github.com/AnthropologieBiblique/SummaTheologiae
+	branch = main
 [submodule "Textes/SommeTheologique"]
 	path = Textes/SommeTheologique
 	url = https://github.com/AnthropologieBiblique/SommeTheologique
+	branch = main
