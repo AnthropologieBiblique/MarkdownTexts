@@ -46,3 +46,9 @@
 	path = Bible/WLC
 	url = https://github.com/AnthropologieBiblique/WLC
 	branch = main
+[submodule "Textes/SummaTheologiae"]
+	path = Textes/SummaTheologiae
+	url = https://github.com/AnthropologieBiblique/SummaTheologiae
+[submodule "Textes/SommeTheologique"]
+	path = Textes/SommeTheologique
+	url = https://github.com/AnthropologieBiblique/SommeTheologique
