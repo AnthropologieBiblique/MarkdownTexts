@@ -1,6 +1,7 @@
 [submodule "Bible/BJ"]
 	path = Bible/BJ
 	url = https://github.com/AnthropologieBiblique/BJ
+	branch = main
 [submodule "Bible/BHS"]
 	path = Bible/BHS
 	url = https://github.com/AnthropologieBiblique/BHS
@@ -8,30 +9,40 @@
 [submodule "Bible/AELF"]
 	path = Bible/AELF
 	url = https://github.com/AnthropologieBiblique/AELF
+	branch = main
 [submodule "Bible/TIS"]
 	path = Bible/TIS
 	url = https://github.com/AnthropologieBiblique/TIS
+	branch = main
 [submodule "Bible/PST"]
 	path = Bible/PST
 	url = https://github.com/AnthropologieBiblique/PST
+	branch = main
 [submodule "Bible/NVG"]
 	path = Bible/NVG
 	url = https://github.com/AnthropologieBiblique/NVG
+	branch = main
 [submodule "Bible/LXX"]
 	path = Bible/LXX
 	url = https://github.com/AnthropologieBiblique/LXX
+	branch = main
 [submodule "Bible/LSG"]
 	path = Bible/LSG
 	url = https://github.com/AnthropologieBiblique/LSG
+	branch = main
 [submodule "Bible/COM"]
 	path = Bible/COM
 	url = https://github.com/AnthropologieBiblique/COM
+	branch = main
 [submodule "Bible/TXR"]
 	path = Bible/TXR
 	url = https://github.com/AnthropologieBiblique/TXR
+	branch = main
 [submodule "Bible/VG"]
 	path = Bible/VG
 	url = https://github.com/AnthropologieBiblique/VG
+	branch = main
 [submodule "Bible/WLC"]
 	path = Bible/WLC
 	url = https://github.com/AnthropologieBiblique/WLC
+	branch = main
