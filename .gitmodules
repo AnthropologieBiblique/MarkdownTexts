@@ -4,3 +4,24 @@
 [submodule "Bible/BHS"]
 	path = Bible/BHS
 	url = https://github.com/AnthropologieBiblique/BHS
+[submodule "Bible/AELF"]
+	path = Bible/AELF
+	url = https://github.com/AnthropologieBiblique/AELF
+[submodule "Bible/TIS"]
+	path = Bible/TIS
+	url = https://github.com/AnthropologieBiblique/TIS
+[submodule "Bible/PST"]
+	path = Bible/PST
+	url = https://github.com/AnthropologieBiblique/PST
+[submodule "Bible/NVG"]
+	path = Bible/NVG
+	url = https://github.com/AnthropologieBiblique/NVG
+[submodule "Bible/LXX"]
+	path = Bible/LXX
+	url = https://github.com/AnthropologieBiblique/LXX
+[submodule "Bible/LSG"]
+	path = Bible/LSG
+	url = https://github.com/AnthropologieBiblique/LSG
+[submodule "Bible/COM"]
+	path = Bible/COM
+	url = https://github.com/AnthropologieBiblique/COM
