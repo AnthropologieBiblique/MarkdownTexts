@@ -2,7 +2,7 @@
 A collection of markdown texts for exegesis and theological research
 
 ## Bibles
-* [AELF](/Bible/AELF)
+* [AELF](/Bible/AELF/)
 * [BHS](/Bible/BHS)
 * [BJ](/Bible/BJ)
 * [LSG](/Bible/LSG)
