@@ -9,7 +9,7 @@
 [submodule "Bible/AELF"]
 	path = Bible/AELF
 	url = https://github.com/AnthropologieBiblique/AELF
-	branch = main
+	branch = AELF-ref
 [submodule "Bible/TIS"]
 	path = Bible/TIS
 	url = https://github.com/AnthropologieBiblique/TIS
