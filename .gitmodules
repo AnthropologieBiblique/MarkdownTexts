@@ -25,3 +25,12 @@
 [submodule "Bible/COM"]
 	path = Bible/COM
 	url = https://github.com/AnthropologieBiblique/COM
+[submodule "Bible/TXR"]
+	path = Bible/TXR
+	url = https://github.com/AnthropologieBiblique/TXR
+[submodule "Bible/VG"]
+	path = Bible/VG
+	url = https://github.com/AnthropologieBiblique/VG
+[submodule "Bible/WLC"]
+	path = Bible/WLC
+	url = https://github.com/AnthropologieBiblique/WLC
